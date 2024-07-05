@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @echoicmimicry
-- 📫 How to reach me -- my discord is echoicmimicry as well
+📫 my discord is echoicmimicry as well
 
 <!---
 echoicmimicry/echoicmimicry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
